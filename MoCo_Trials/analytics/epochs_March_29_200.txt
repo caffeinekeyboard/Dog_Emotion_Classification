@@ -1,0 +1,806 @@
+removed directory 'example_logs'
+removed 'example_tensorboard/events.out.tfevents.1711746348.aarya-ExcaliburOMEN.6807.0'
+removed directory 'example_tensorboard'
+
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.08it/s]
+Test Epoch 0: Acc@1:29.75%: 100%|██████████| 2/2 [00:00<00:00,  2.76it/s]
+INFO:root:Starting epoch 1
+loss=7.75746: 100%|██████████| 12/12 [00:04<00:00,  2.41it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.25it/s]
+Test Epoch 1: Acc@1:32.75%: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+INFO:root:Starting epoch 2
+loss=7.35967: 100%|██████████| 12/12 [00:07<00:00,  1.67it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.27it/s]
+Test Epoch 2: Acc@1:34.75%: 100%|██████████| 2/2 [00:00<00:00,  3.10it/s]
+INFO:root:Starting epoch 3
+loss=6.99340: 100%|██████████| 12/12 [00:05<00:00,  2.39it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.28it/s]
+Test Epoch 3: Acc@1:32.25%: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+INFO:root:Starting epoch 4
+loss=6.62179: 100%|██████████| 12/12 [00:05<00:00,  2.39it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.27it/s]
+Test Epoch 4: Acc@1:29.50%: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+INFO:root:Starting epoch 5
+loss=6.50169: 100%|██████████| 12/12 [00:04<00:00,  2.47it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 5: Acc@1:30.25%: 100%|██████████| 2/2 [00:00<00:00,  3.07it/s]
+INFO:root:Starting epoch 6
+loss=6.43894: 100%|██████████| 12/12 [00:04<00:00,  2.41it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.27it/s]
+Test Epoch 6: Acc@1:26.50%: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+INFO:root:Starting epoch 7
+loss=6.46103: 100%|██████████| 12/12 [00:04<00:00,  2.44it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.25it/s]
+Test Epoch 7: Acc@1:30.00%: 100%|██████████| 2/2 [00:00<00:00,  3.06it/s]
+INFO:root:Starting epoch 8
+loss=6.42267: 100%|██████████| 12/12 [00:04<00:00,  2.44it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 8: Acc@1:29.50%: 100%|██████████| 2/2 [00:00<00:00,  3.03it/s]
+INFO:root:Starting epoch 9
+loss=6.35550: 100%|██████████| 12/12 [00:04<00:00,  2.47it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 9: Acc@1:29.00%: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+INFO:root:Starting epoch 10
+loss=6.40857: 100%|██████████| 12/12 [00:04<00:00,  2.47it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.21it/s]
+Test Epoch 10: Acc@1:30.50%: 100%|██████████| 2/2 [00:00<00:00,  3.10it/s]
+INFO:root:Starting epoch 11
+loss=6.34279: 100%|██████████| 12/12 [00:04<00:00,  2.47it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.20it/s]
+Test Epoch 11: Acc@1:32.00%: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+INFO:root:Starting epoch 12
+loss=6.43723: 100%|██████████| 12/12 [00:04<00:00,  2.46it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 12: Acc@1:31.75%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 13
+loss=6.36375: 100%|██████████| 12/12 [00:04<00:00,  2.50it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 13: Acc@1:30.50%: 100%|██████████| 2/2 [00:00<00:00,  2.94it/s]
+INFO:root:Starting epoch 14
+loss=6.31330: 100%|██████████| 12/12 [00:04<00:00,  2.43it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.25it/s]
+Test Epoch 14: Acc@1:33.25%: 100%|██████████| 2/2 [00:00<00:00,  3.06it/s]
+INFO:root:Starting epoch 15
+loss=6.45343: 100%|██████████| 12/12 [00:04<00:00,  2.47it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.20it/s]
+Test Epoch 15: Acc@1:31.25%: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+INFO:root:Starting epoch 16
+loss=6.39307: 100%|██████████| 12/12 [00:04<00:00,  2.51it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 16: Acc@1:31.50%: 100%|██████████| 2/2 [00:00<00:00,  3.03it/s]
+INFO:root:Starting epoch 17
+loss=6.37801: 100%|██████████| 12/12 [00:04<00:00,  2.49it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.19it/s]
+Test Epoch 17: Acc@1:32.00%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 18
+loss=6.47734: 100%|██████████| 12/12 [00:04<00:00,  2.49it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 18: Acc@1:33.25%: 100%|██████████| 2/2 [00:00<00:00,  2.95it/s]
+INFO:root:Starting epoch 19
+loss=6.38872: 100%|██████████| 12/12 [00:04<00:00,  2.50it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.27it/s]
+Test Epoch 19: Acc@1:31.00%: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+INFO:root:Starting epoch 20
+loss=6.37677: 100%|██████████| 12/12 [00:04<00:00,  2.44it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.28it/s]
+Test Epoch 20: Acc@1:33.25%: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+INFO:root:Starting epoch 21
+loss=6.40788: 100%|██████████| 12/12 [00:04<00:00,  2.45it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 21: Acc@1:32.75%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 22
+loss=6.46660: 100%|██████████| 12/12 [00:04<00:00,  2.47it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.25it/s]
+Test Epoch 22: Acc@1:32.00%: 100%|██████████| 2/2 [00:00<00:00,  3.10it/s]
+INFO:root:Starting epoch 23
+loss=6.39443: 100%|██████████| 12/12 [00:04<00:00,  2.43it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 23: Acc@1:32.50%: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+INFO:root:Starting epoch 24
+loss=6.45523: 100%|██████████| 12/12 [00:04<00:00,  2.42it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.28it/s]
+Test Epoch 24: Acc@1:36.25%: 100%|██████████| 2/2 [00:00<00:00,  2.93it/s]
+INFO:root:Starting epoch 25
+loss=6.37381: 100%|██████████| 12/12 [00:04<00:00,  2.47it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.15it/s]
+Test Epoch 25: Acc@1:34.50%: 100%|██████████| 2/2 [00:00<00:00,  3.03it/s]
+INFO:root:Starting epoch 26
+loss=6.39983: 100%|██████████| 12/12 [00:05<00:00,  2.38it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 26: Acc@1:38.25%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 27
+loss=6.37497: 100%|██████████| 12/12 [00:04<00:00,  2.45it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 27: Acc@1:36.25%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 28
+loss=6.48690: 100%|██████████| 12/12 [00:04<00:00,  2.43it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.18it/s]
+Test Epoch 28: Acc@1:37.25%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 29
+loss=6.45535: 100%|██████████| 12/12 [00:05<00:00,  2.20it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 29: Acc@1:36.00%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 30
+loss=6.34398: 100%|██████████| 12/12 [00:04<00:00,  2.51it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.19it/s]
+Test Epoch 30: Acc@1:38.25%: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+INFO:root:Starting epoch 31
+loss=6.28376: 100%|██████████| 12/12 [00:05<00:00,  2.36it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 31: Acc@1:35.00%: 100%|██████████| 2/2 [00:00<00:00,  2.98it/s]
+INFO:root:Starting epoch 32
+loss=6.21864: 100%|██████████| 12/12 [00:05<00:00,  2.26it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.14it/s]
+Test Epoch 32: Acc@1:37.25%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 33
+loss=6.42501: 100%|██████████| 12/12 [00:05<00:00,  2.31it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 33: Acc@1:36.00%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 34
+loss=6.48253: 100%|██████████| 12/12 [00:05<00:00,  2.38it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 34: Acc@1:39.50%: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+INFO:root:Starting epoch 35
+loss=6.36686: 100%|██████████| 12/12 [00:04<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.19it/s]
+Test Epoch 35: Acc@1:39.25%: 100%|██████████| 2/2 [00:00<00:00,  2.96it/s]
+INFO:root:Starting epoch 36
+loss=6.31894: 100%|██████████| 12/12 [00:04<00:00,  2.46it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.29it/s]
+Test Epoch 36: Acc@1:37.00%: 100%|██████████| 2/2 [00:00<00:00,  3.07it/s]
+INFO:root:Starting epoch 37
+loss=6.18390: 100%|██████████| 12/12 [00:04<00:00,  2.43it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.19it/s]
+Test Epoch 37: Acc@1:38.75%: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+INFO:root:Starting epoch 38
+loss=6.37453: 100%|██████████| 12/12 [00:05<00:00,  2.34it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.20it/s]
+Test Epoch 38: Acc@1:38.75%: 100%|██████████| 2/2 [00:00<00:00,  3.05it/s]
+INFO:root:Starting epoch 39
+loss=6.41439: 100%|██████████| 12/12 [00:05<00:00,  2.31it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 39: Acc@1:38.00%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 40
+loss=6.16820: 100%|██████████| 12/12 [00:05<00:00,  2.32it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.14it/s]
+Test Epoch 40: Acc@1:37.75%: 100%|██████████| 2/2 [00:00<00:00,  2.86it/s]
+INFO:root:Starting epoch 41
+loss=6.16147: 100%|██████████| 12/12 [00:05<00:00,  2.27it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.03it/s]
+Test Epoch 41: Acc@1:38.50%: 100%|██████████| 2/2 [00:00<00:00,  2.88it/s]
+INFO:root:Starting epoch 42
+loss=6.21094: 100%|██████████| 12/12 [00:05<00:00,  2.36it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 42: Acc@1:35.75%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 43
+loss=6.24198: 100%|██████████| 12/12 [00:04<00:00,  2.43it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.19it/s]
+Test Epoch 43: Acc@1:38.00%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 44
+loss=6.31112: 100%|██████████| 12/12 [00:04<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 44: Acc@1:34.75%: 100%|██████████| 2/2 [00:00<00:00,  2.99it/s]
+INFO:root:Starting epoch 45
+loss=6.16162: 100%|██████████| 12/12 [00:04<00:00,  2.48it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 45: Acc@1:40.00%: 100%|██████████| 2/2 [00:00<00:00,  3.03it/s]
+INFO:root:Starting epoch 46
+loss=6.23129: 100%|██████████| 12/12 [00:04<00:00,  2.51it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 46: Acc@1:38.00%: 100%|██████████| 2/2 [00:00<00:00,  3.03it/s]
+INFO:root:Starting epoch 47
+loss=6.26658: 100%|██████████| 12/12 [00:05<00:00,  2.38it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.11it/s]
+Test Epoch 47: Acc@1:39.50%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 48
+loss=6.16285: 100%|██████████| 12/12 [00:04<00:00,  2.46it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.22it/s]
+Test Epoch 48: Acc@1:40.25%: 100%|██████████| 2/2 [00:00<00:00,  2.82it/s]
+INFO:root:Starting epoch 49
+loss=6.29063: 100%|██████████| 12/12 [00:04<00:00,  2.44it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 49: Acc@1:39.00%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 50
+loss=6.04391: 100%|██████████| 12/12 [00:07<00:00,  1.54it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.14it/s]
+Test Epoch 50: Acc@1:42.50%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 51
+loss=6.26647: 100%|██████████| 12/12 [00:04<00:00,  2.45it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 51: Acc@1:40.75%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 52
+loss=6.14656: 100%|██████████| 12/12 [00:04<00:00,  2.49it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 52: Acc@1:39.50%: 100%|██████████| 2/2 [00:00<00:00,  3.06it/s]
+INFO:root:Starting epoch 53
+loss=6.19599: 100%|██████████| 12/12 [00:04<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 53: Acc@1:39.50%: 100%|██████████| 2/2 [00:00<00:00,  3.07it/s]
+INFO:root:Starting epoch 54
+loss=6.24156: 100%|██████████| 12/12 [00:04<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 54: Acc@1:39.75%: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+INFO:root:Starting epoch 55
+loss=6.34127: 100%|██████████| 12/12 [00:04<00:00,  2.47it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.22it/s]
+Test Epoch 55: Acc@1:39.25%: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+INFO:root:Starting epoch 56
+loss=6.12184: 100%|██████████| 12/12 [00:04<00:00,  2.42it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.25it/s]
+Test Epoch 56: Acc@1:38.00%: 100%|██████████| 2/2 [00:00<00:00,  3.07it/s]
+INFO:root:Starting epoch 57
+loss=5.97347: 100%|██████████| 12/12 [00:04<00:00,  2.45it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 57: Acc@1:40.75%: 100%|██████████| 2/2 [00:00<00:00,  3.07it/s]
+INFO:root:Starting epoch 58
+loss=6.15938: 100%|██████████| 12/12 [00:04<00:00,  2.46it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 58: Acc@1:36.75%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 59
+loss=6.19147: 100%|██████████| 12/12 [00:04<00:00,  2.48it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.15it/s]
+Test Epoch 59: Acc@1:37.75%: 100%|██████████| 2/2 [00:00<00:00,  2.99it/s]
+INFO:root:Starting epoch 60
+loss=5.90854: 100%|██████████| 12/12 [00:05<00:00,  2.36it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 60: Acc@1:39.25%: 100%|██████████| 2/2 [00:00<00:00,  2.97it/s]
+INFO:root:Starting epoch 61
+loss=6.00198: 100%|██████████| 12/12 [00:04<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.78it/s]
+Test Epoch 61: Acc@1:38.75%: 100%|██████████| 2/2 [00:00<00:00,  2.75it/s]
+INFO:root:Starting epoch 62
+loss=5.91652: 100%|██████████| 12/12 [00:05<00:00,  2.21it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.10it/s]
+Test Epoch 62: Acc@1:38.00%: 100%|██████████| 2/2 [00:00<00:00,  2.88it/s]
+INFO:root:Starting epoch 63
+loss=5.99033: 100%|██████████| 12/12 [00:05<00:00,  2.23it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+Test Epoch 63: Acc@1:39.75%: 100%|██████████| 2/2 [00:00<00:00,  2.92it/s]
+INFO:root:Starting epoch 64
+loss=6.04773: 100%|██████████| 12/12 [00:05<00:00,  2.31it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.10it/s]
+Test Epoch 64: Acc@1:42.00%: 100%|██████████| 2/2 [00:00<00:00,  2.96it/s]
+INFO:root:Starting epoch 65
+loss=6.07225: 100%|██████████| 12/12 [00:05<00:00,  2.26it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.78it/s]
+Test Epoch 65: Acc@1:40.50%: 100%|██████████| 2/2 [00:00<00:00,  2.88it/s]
+INFO:root:Starting epoch 66
+loss=6.00839: 100%|██████████| 12/12 [00:05<00:00,  2.30it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.06it/s]
+Test Epoch 66: Acc@1:41.75%: 100%|██████████| 2/2 [00:00<00:00,  2.81it/s]
+INFO:root:Starting epoch 67
+loss=6.13140: 100%|██████████| 12/12 [00:05<00:00,  2.31it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.11it/s]
+Test Epoch 67: Acc@1:40.50%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 68
+loss=6.20133: 100%|██████████| 12/12 [00:04<00:00,  2.44it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.28it/s]
+Test Epoch 68: Acc@1:42.75%: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+INFO:root:Starting epoch 69
+loss=5.99761: 100%|██████████| 12/12 [00:04<00:00,  2.48it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 69: Acc@1:41.25%: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+INFO:root:Starting epoch 70
+loss=6.04686: 100%|██████████| 12/12 [00:04<00:00,  2.44it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 70: Acc@1:39.00%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 71
+loss=6.11506: 100%|██████████| 12/12 [00:04<00:00,  2.44it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 71: Acc@1:42.00%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 72
+loss=6.02467: 100%|██████████| 12/12 [00:04<00:00,  2.41it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.20it/s]
+Test Epoch 72: Acc@1:41.25%: 100%|██████████| 2/2 [00:00<00:00,  3.05it/s]
+INFO:root:Starting epoch 73
+loss=5.78655: 100%|██████████| 12/12 [00:05<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 73: Acc@1:41.75%: 100%|██████████| 2/2 [00:00<00:00,  3.11it/s]
+INFO:root:Starting epoch 74
+loss=5.81956: 100%|██████████| 12/12 [00:04<00:00,  2.46it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.14it/s]
+Test Epoch 74: Acc@1:41.25%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 75
+loss=5.81311: 100%|██████████| 12/12 [00:04<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 75: Acc@1:40.00%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 76
+loss=5.73429: 100%|██████████| 12/12 [00:04<00:00,  2.41it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.18it/s]
+Test Epoch 76: Acc@1:43.50%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 77
+loss=6.04484: 100%|██████████| 12/12 [00:05<00:00,  2.38it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.18it/s]
+Test Epoch 77: Acc@1:43.00%: 100%|██████████| 2/2 [00:00<00:00,  2.99it/s]
+INFO:root:Starting epoch 78
+loss=5.86400: 100%|██████████| 12/12 [00:04<00:00,  2.45it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 78: Acc@1:41.75%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 79
+loss=5.79706: 100%|██████████| 12/12 [00:05<00:00,  2.38it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.29it/s]
+Test Epoch 79: Acc@1:43.00%: 100%|██████████| 2/2 [00:00<00:00,  3.07it/s]
+INFO:root:Starting epoch 80
+loss=5.67379: 100%|██████████| 12/12 [00:04<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.25it/s]
+Test Epoch 80: Acc@1:44.75%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 81
+loss=5.82999: 100%|██████████| 12/12 [00:04<00:00,  2.42it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.27it/s]
+Test Epoch 81: Acc@1:43.50%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 82
+loss=5.75755: 100%|██████████| 12/12 [00:04<00:00,  2.49it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.29it/s]
+Test Epoch 82: Acc@1:41.75%: 100%|██████████| 2/2 [00:00<00:00,  3.07it/s]
+INFO:root:Starting epoch 83
+loss=5.71616: 100%|██████████| 12/12 [00:05<00:00,  2.33it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.27it/s]
+Test Epoch 83: Acc@1:45.00%: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+INFO:root:Starting epoch 84
+loss=5.77844: 100%|██████████| 12/12 [00:04<00:00,  2.43it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 84: Acc@1:43.25%: 100%|██████████| 2/2 [00:00<00:00,  3.05it/s]
+INFO:root:Starting epoch 85
+loss=5.79470: 100%|██████████| 12/12 [00:04<00:00,  2.43it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.21it/s]
+Test Epoch 85: Acc@1:42.50%: 100%|██████████| 2/2 [00:00<00:00,  3.06it/s]
+INFO:root:Starting epoch 86
+loss=5.79941: 100%|██████████| 12/12 [00:04<00:00,  2.50it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.15it/s]
+Test Epoch 86: Acc@1:45.00%: 100%|██████████| 2/2 [00:00<00:00,  2.99it/s]
+INFO:root:Starting epoch 87
+loss=5.49596: 100%|██████████| 12/12 [00:04<00:00,  2.48it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.20it/s]
+Test Epoch 87: Acc@1:42.50%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 88
+loss=5.86154: 100%|██████████| 12/12 [00:05<00:00,  2.39it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.27it/s]
+Test Epoch 88: Acc@1:44.00%: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+INFO:root:Starting epoch 89
+loss=5.96004: 100%|██████████| 12/12 [00:04<00:00,  2.49it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 89: Acc@1:42.25%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 90
+loss=5.52392: 100%|██████████| 12/12 [00:04<00:00,  2.42it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.25it/s]
+Test Epoch 90: Acc@1:43.50%: 100%|██████████| 2/2 [00:00<00:00,  3.07it/s]
+INFO:root:Starting epoch 91
+loss=5.68309: 100%|██████████| 12/12 [00:04<00:00,  2.52it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.28it/s]
+Test Epoch 91: Acc@1:45.75%: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+INFO:root:Starting epoch 92
+loss=5.47756: 100%|██████████| 12/12 [00:04<00:00,  2.43it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.19it/s]
+Test Epoch 92: Acc@1:44.00%: 100%|██████████| 2/2 [00:00<00:00,  3.06it/s]
+INFO:root:Starting epoch 93
+loss=5.60253: 100%|██████████| 12/12 [00:04<00:00,  2.46it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.10it/s]
+Test Epoch 93: Acc@1:42.75%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 94
+loss=5.81483: 100%|██████████| 12/12 [00:04<00:00,  2.44it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.18it/s]
+Test Epoch 94: Acc@1:44.25%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 95
+loss=5.56030: 100%|██████████| 12/12 [00:04<00:00,  2.42it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 95: Acc@1:43.75%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 96
+loss=5.50376: 100%|██████████| 12/12 [00:04<00:00,  2.48it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 96: Acc@1:45.75%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 97
+loss=5.65085: 100%|██████████| 12/12 [00:04<00:00,  2.47it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 97: Acc@1:44.75%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 98
+loss=5.47481: 100%|██████████| 12/12 [00:04<00:00,  2.44it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.22it/s]
+Test Epoch 98: Acc@1:45.75%: 100%|██████████| 2/2 [00:00<00:00,  3.06it/s]
+INFO:root:Starting epoch 99
+loss=5.39200: 100%|██████████| 12/12 [00:04<00:00,  2.48it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.28it/s]
+Test Epoch 99: Acc@1:42.75%: 100%|██████████| 2/2 [00:00<00:00,  3.05it/s]
+INFO:root:Starting epoch 100
+loss=5.56940: 100%|██████████| 12/12 [00:07<00:00,  1.65it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 100: Acc@1:47.25%: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+INFO:root:Starting epoch 101
+loss=5.61937: 100%|██████████| 12/12 [00:04<00:00,  2.46it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 101: Acc@1:43.25%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 102
+loss=5.59377: 100%|██████████| 12/12 [00:04<00:00,  2.43it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.12it/s]
+Test Epoch 102: Acc@1:44.25%: 100%|██████████| 2/2 [00:00<00:00,  3.07it/s]
+INFO:root:Starting epoch 103
+loss=5.27883: 100%|██████████| 12/12 [00:05<00:00,  2.11it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.29it/s]
+Test Epoch 103: Acc@1:43.75%: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+INFO:root:Starting epoch 104
+loss=5.77007: 100%|██████████| 12/12 [00:04<00:00,  2.46it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.25it/s]
+Test Epoch 104: Acc@1:48.25%: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+INFO:root:Starting epoch 105
+loss=5.48635: 100%|██████████| 12/12 [00:04<00:00,  2.44it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.24it/s]
+Test Epoch 105: Acc@1:45.75%: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+INFO:root:Starting epoch 106
+loss=5.53407: 100%|██████████| 12/12 [00:05<00:00,  2.36it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 106: Acc@1:45.25%: 100%|██████████| 2/2 [00:00<00:00,  2.89it/s]
+INFO:root:Starting epoch 107
+loss=5.63662: 100%|██████████| 12/12 [00:05<00:00,  2.33it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.22it/s]
+Test Epoch 107: Acc@1:42.75%: 100%|██████████| 2/2 [00:00<00:00,  2.99it/s]
+INFO:root:Starting epoch 108
+loss=5.37286: 100%|██████████| 12/12 [00:05<00:00,  2.25it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.15it/s]
+Test Epoch 108: Acc@1:44.50%: 100%|██████████| 2/2 [00:00<00:00,  3.07it/s]
+INFO:root:Starting epoch 109
+loss=5.24946: 100%|██████████| 12/12 [00:04<00:00,  2.46it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 109: Acc@1:45.25%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 110
+loss=5.60574: 100%|██████████| 12/12 [00:04<00:00,  2.49it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.14it/s]
+Test Epoch 110: Acc@1:42.50%: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+INFO:root:Starting epoch 111
+loss=5.51691: 100%|██████████| 12/12 [00:04<00:00,  2.45it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 111: Acc@1:46.00%: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+INFO:root:Starting epoch 112
+loss=5.51549: 100%|██████████| 12/12 [00:04<00:00,  2.45it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.24it/s]
+Test Epoch 112: Acc@1:46.25%: 100%|██████████| 2/2 [00:00<00:00,  3.06it/s]
+INFO:root:Starting epoch 113
+loss=5.23805: 100%|██████████| 12/12 [00:04<00:00,  2.42it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.98it/s]
+Test Epoch 113: Acc@1:45.00%: 100%|██████████| 2/2 [00:00<00:00,  2.83it/s]
+INFO:root:Starting epoch 114
+loss=5.47739: 100%|██████████| 12/12 [00:05<00:00,  2.22it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 114: Acc@1:43.25%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 115
+loss=5.21986: 100%|██████████| 12/12 [00:05<00:00,  2.20it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.77it/s]
+Test Epoch 115: Acc@1:45.00%: 100%|██████████| 2/2 [00:00<00:00,  2.73it/s]
+INFO:root:Starting epoch 116
+loss=5.18522: 100%|██████████| 12/12 [00:05<00:00,  2.37it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.75it/s]
+Test Epoch 116: Acc@1:44.75%: 100%|██████████| 2/2 [00:00<00:00,  2.95it/s]
+INFO:root:Starting epoch 117
+loss=5.44433: 100%|██████████| 12/12 [00:05<00:00,  2.34it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.12it/s]
+Test Epoch 117: Acc@1:43.00%: 100%|██████████| 2/2 [00:00<00:00,  2.99it/s]
+INFO:root:Starting epoch 118
+loss=5.35916: 100%|██████████| 12/12 [00:06<00:00,  1.72it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.23it/s]
+Test Epoch 118: Acc@1:45.75%: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+INFO:root:Starting epoch 119
+loss=5.42834: 100%|██████████| 12/12 [00:05<00:00,  2.39it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.20it/s]
+Test Epoch 119: Acc@1:42.25%: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+INFO:root:Starting epoch 120
+loss=5.57746: 100%|██████████| 12/12 [00:05<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.77it/s]
+Test Epoch 120: Acc@1:45.50%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 121
+loss=5.40357: 100%|██████████| 12/12 [00:05<00:00,  2.37it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+Test Epoch 121: Acc@1:40.75%: 100%|██████████| 2/2 [00:00<00:00,  2.94it/s]
+INFO:root:Starting epoch 122
+loss=5.17554: 100%|██████████| 12/12 [00:05<00:00,  2.34it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 122: Acc@1:44.75%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 123
+loss=5.34049: 100%|██████████| 12/12 [00:04<00:00,  2.42it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.77it/s]
+Test Epoch 123: Acc@1:45.50%: 100%|██████████| 2/2 [00:00<00:00,  3.07it/s]
+INFO:root:Starting epoch 124
+loss=4.91112: 100%|██████████| 12/12 [00:04<00:00,  2.46it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.28it/s]
+Test Epoch 124: Acc@1:45.00%: 100%|██████████| 2/2 [00:00<00:00,  3.03it/s]
+INFO:root:Starting epoch 125
+loss=5.24848: 100%|██████████| 12/12 [00:05<00:00,  2.24it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+Test Epoch 125: Acc@1:42.25%: 100%|██████████| 2/2 [00:00<00:00,  2.94it/s]
+INFO:root:Starting epoch 126
+loss=5.43427: 100%|██████████| 12/12 [00:05<00:00,  2.35it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.18it/s]
+Test Epoch 126: Acc@1:43.50%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 127
+loss=5.39156: 100%|██████████| 12/12 [00:05<00:00,  2.22it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+Test Epoch 127: Acc@1:42.75%: 100%|██████████| 2/2 [00:00<00:00,  2.87it/s]
+INFO:root:Starting epoch 128
+loss=4.99803: 100%|██████████| 12/12 [00:05<00:00,  2.18it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.10it/s]
+Test Epoch 128: Acc@1:44.25%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 129
+loss=4.85567: 100%|██████████| 12/12 [00:04<00:00,  2.46it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.13it/s]
+Test Epoch 129: Acc@1:44.00%: 100%|██████████| 2/2 [00:00<00:00,  2.96it/s]
+INFO:root:Starting epoch 130
+loss=5.05310: 100%|██████████| 12/12 [00:05<00:00,  2.14it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.95it/s]
+Test Epoch 130: Acc@1:44.50%: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+INFO:root:Starting epoch 131
+loss=5.31052: 100%|██████████| 12/12 [00:05<00:00,  2.23it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.22it/s]
+Test Epoch 131: Acc@1:43.50%: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+INFO:root:Starting epoch 132
+loss=5.25473: 100%|██████████| 12/12 [00:05<00:00,  2.24it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.85it/s]
+Test Epoch 132: Acc@1:44.75%: 100%|██████████| 2/2 [00:00<00:00,  3.03it/s]
+INFO:root:Starting epoch 133
+loss=5.11766: 100%|██████████| 12/12 [00:05<00:00,  2.30it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 133: Acc@1:45.75%: 100%|██████████| 2/2 [00:00<00:00,  3.05it/s]
+INFO:root:Starting epoch 134
+loss=5.12207: 100%|██████████| 12/12 [00:05<00:00,  2.28it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 134: Acc@1:45.00%: 100%|██████████| 2/2 [00:00<00:00,  2.83it/s]
+INFO:root:Starting epoch 135
+loss=5.23189: 100%|██████████| 12/12 [00:05<00:00,  2.09it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.12it/s]
+Test Epoch 135: Acc@1:44.75%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 136
+loss=4.98672: 100%|██████████| 12/12 [00:05<00:00,  2.38it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.21it/s]
+Test Epoch 136: Acc@1:43.75%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 137
+loss=4.94577: 100%|██████████| 12/12 [00:08<00:00,  1.44it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+Test Epoch 137: Acc@1:47.50%: 100%|██████████| 2/2 [00:01<00:00,  1.98it/s]
+INFO:root:Starting epoch 138
+loss=5.17158: 100%|██████████| 12/12 [00:05<00:00,  2.24it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+Test Epoch 138: Acc@1:45.25%: 100%|██████████| 2/2 [00:00<00:00,  2.73it/s]
+INFO:root:Starting epoch 139
+loss=5.30532: 100%|██████████| 12/12 [00:08<00:00,  1.42it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+Test Epoch 139: Acc@1:44.75%: 100%|██████████| 2/2 [00:00<00:00,  2.71it/s]
+INFO:root:Starting epoch 140
+loss=5.20498: 100%|██████████| 12/12 [00:08<00:00,  1.48it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+Test Epoch 140: Acc@1:44.75%: 100%|██████████| 2/2 [00:00<00:00,  2.92it/s]
+INFO:root:Starting epoch 141
+loss=5.11403: 100%|██████████| 12/12 [00:07<00:00,  1.68it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.13it/s]
+Test Epoch 141: Acc@1:44.50%: 100%|██████████| 2/2 [00:00<00:00,  2.69it/s]
+INFO:root:Starting epoch 142
+loss=5.03046: 100%|██████████| 12/12 [00:04<00:00,  2.43it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.11it/s]
+Test Epoch 142: Acc@1:45.75%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 143
+loss=5.28416: 100%|██████████| 12/12 [00:07<00:00,  1.66it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.19it/s]
+Test Epoch 143: Acc@1:46.00%: 100%|██████████| 2/2 [00:00<00:00,  2.92it/s]
+INFO:root:Starting epoch 144
+loss=5.00016: 100%|██████████| 12/12 [00:04<00:00,  2.45it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.21it/s]
+Test Epoch 144: Acc@1:45.50%: 100%|██████████| 2/2 [00:00<00:00,  3.05it/s]
+INFO:root:Starting epoch 145
+loss=4.95972: 100%|██████████| 12/12 [00:04<00:00,  2.49it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.27it/s]
+Test Epoch 145: Acc@1:43.75%: 100%|██████████| 2/2 [00:00<00:00,  3.06it/s]
+INFO:root:Starting epoch 146
+loss=4.88461: 100%|██████████| 12/12 [00:07<00:00,  1.65it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.24it/s]
+Test Epoch 146: Acc@1:47.00%: 100%|██████████| 2/2 [00:00<00:00,  2.92it/s]
+INFO:root:Starting epoch 147
+loss=4.82253: 100%|██████████| 12/12 [00:04<00:00,  2.48it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.24it/s]
+Test Epoch 147: Acc@1:46.00%: 100%|██████████| 2/2 [00:00<00:00,  3.07it/s]
+INFO:root:Starting epoch 148
+loss=5.15294: 100%|██████████| 12/12 [00:05<00:00,  2.39it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 148: Acc@1:46.50%: 100%|██████████| 2/2 [00:00<00:00,  2.85it/s]
+INFO:root:Starting epoch 149
+loss=5.05561: 100%|██████████| 12/12 [00:05<00:00,  2.33it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.15it/s]
+Test Epoch 149: Acc@1:46.50%: 100%|██████████| 2/2 [00:00<00:00,  2.89it/s]
+INFO:root:Starting epoch 150
+loss=4.99855: 100%|██████████| 12/12 [00:05<00:00,  2.24it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.15it/s]
+Test Epoch 150: Acc@1:46.25%: 100%|██████████| 2/2 [00:00<00:00,  2.97it/s]
+INFO:root:Starting epoch 151
+loss=5.15902: 100%|██████████| 12/12 [00:05<00:00,  2.32it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 151: Acc@1:46.00%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 152
+loss=5.03595: 100%|██████████| 12/12 [00:05<00:00,  2.33it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.24it/s]
+Test Epoch 152: Acc@1:46.00%: 100%|██████████| 2/2 [00:00<00:00,  3.12it/s]
+INFO:root:Starting epoch 153
+loss=4.92141: 100%|██████████| 12/12 [00:04<00:00,  2.42it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.18it/s]
+Test Epoch 153: Acc@1:44.25%: 100%|██████████| 2/2 [00:00<00:00,  2.97it/s]
+INFO:root:Starting epoch 154
+loss=5.10228: 100%|██████████| 12/12 [00:04<00:00,  2.42it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.17it/s]
+Test Epoch 154: Acc@1:44.75%: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+INFO:root:Starting epoch 155
+loss=4.69631: 100%|██████████| 12/12 [00:04<00:00,  2.43it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.15it/s]
+Test Epoch 155: Acc@1:44.50%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 156
+loss=5.12711: 100%|██████████| 12/12 [00:05<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.12it/s]
+Test Epoch 156: Acc@1:46.50%: 100%|██████████| 2/2 [00:00<00:00,  2.90it/s]
+INFO:root:Starting epoch 157
+loss=4.71223: 100%|██████████| 12/12 [00:05<00:00,  2.35it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 157: Acc@1:46.25%: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+INFO:root:Starting epoch 158
+loss=5.12346: 100%|██████████| 12/12 [00:05<00:00,  2.35it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.06it/s]
+Test Epoch 158: Acc@1:45.25%: 100%|██████████| 2/2 [00:00<00:00,  2.94it/s]
+INFO:root:Starting epoch 159
+loss=4.89710: 100%|██████████| 12/12 [00:06<00:00,  1.85it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.24it/s]
+Test Epoch 159: Acc@1:46.75%: 100%|██████████| 2/2 [00:00<00:00,  2.93it/s]
+INFO:root:Starting epoch 160
+loss=4.95350: 100%|██████████| 12/12 [00:05<00:00,  2.28it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.94it/s]
+Test Epoch 160: Acc@1:46.75%: 100%|██████████| 2/2 [00:00<00:00,  2.79it/s]
+INFO:root:Starting epoch 161
+loss=5.02782: 100%|██████████| 12/12 [00:08<00:00,  1.49it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.05it/s]
+Test Epoch 161: Acc@1:44.75%: 100%|██████████| 2/2 [00:00<00:00,  2.95it/s]
+INFO:root:Starting epoch 162
+loss=4.91856: 100%|██████████| 12/12 [00:04<00:00,  2.41it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 162: Acc@1:46.25%: 100%|██████████| 2/2 [00:00<00:00,  2.92it/s]
+INFO:root:Starting epoch 163
+loss=4.66267: 100%|██████████| 12/12 [00:05<00:00,  2.35it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.23it/s]
+Test Epoch 163: Acc@1:45.75%: 100%|██████████| 2/2 [00:00<00:00,  3.03it/s]
+INFO:root:Starting epoch 164
+loss=4.97727: 100%|██████████| 12/12 [00:05<00:00,  2.39it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.13it/s]
+Test Epoch 164: Acc@1:47.00%: 100%|██████████| 2/2 [00:00<00:00,  2.90it/s]
+INFO:root:Starting epoch 165
+loss=4.88191: 100%|██████████| 12/12 [00:05<00:00,  2.23it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.25it/s]
+Test Epoch 165: Acc@1:45.25%: 100%|██████████| 2/2 [00:00<00:00,  3.06it/s]
+INFO:root:Starting epoch 166
+loss=5.14517: 100%|██████████| 12/12 [00:05<00:00,  2.32it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.11it/s]
+Test Epoch 166: Acc@1:44.75%: 100%|██████████| 2/2 [00:00<00:00,  2.99it/s]
+INFO:root:Starting epoch 167
+loss=4.66769: 100%|██████████| 12/12 [00:04<00:00,  2.44it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+Test Epoch 167: Acc@1:44.00%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 168
+loss=4.74871: 100%|██████████| 12/12 [00:05<00:00,  2.30it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.15it/s]
+Test Epoch 168: Acc@1:46.00%: 100%|██████████| 2/2 [00:00<00:00,  2.94it/s]
+INFO:root:Starting epoch 169
+loss=4.78167: 100%|██████████| 12/12 [00:05<00:00,  2.28it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.05it/s]
+Test Epoch 169: Acc@1:46.50%: 100%|██████████| 2/2 [00:00<00:00,  2.99it/s]
+INFO:root:Starting epoch 170
+loss=4.81538: 100%|██████████| 12/12 [00:08<00:00,  1.47it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.12it/s]
+Test Epoch 170: Acc@1:48.00%: 100%|██████████| 2/2 [00:00<00:00,  2.97it/s]
+INFO:root:Starting epoch 171
+loss=4.71053: 100%|██████████| 12/12 [00:04<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.05it/s]
+Test Epoch 171: Acc@1:46.25%: 100%|██████████| 2/2 [00:01<00:00,  1.91it/s]
+INFO:root:Starting epoch 172
+loss=4.70652: 100%|██████████| 12/12 [00:05<00:00,  2.15it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+Test Epoch 172: Acc@1:46.75%: 100%|██████████| 2/2 [00:00<00:00,  2.94it/s]
+INFO:root:Starting epoch 173
+loss=4.88812: 100%|██████████| 12/12 [00:05<00:00,  2.29it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.05it/s]
+Test Epoch 173: Acc@1:47.25%: 100%|██████████| 2/2 [00:00<00:00,  2.96it/s]
+INFO:root:Starting epoch 174
+loss=4.73244: 100%|██████████| 12/12 [00:08<00:00,  1.42it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.95it/s]
+Test Epoch 174: Acc@1:46.50%: 100%|██████████| 2/2 [00:00<00:00,  2.99it/s]
+INFO:root:Starting epoch 175
+loss=4.74606: 100%|██████████| 12/12 [00:05<00:00,  2.35it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.03it/s]
+Test Epoch 175: Acc@1:47.00%: 100%|██████████| 2/2 [00:00<00:00,  2.97it/s]
+INFO:root:Starting epoch 176
+loss=4.71922: 100%|██████████| 12/12 [00:05<00:00,  2.31it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.94it/s]
+Test Epoch 176: Acc@1:45.75%: 100%|██████████| 2/2 [00:01<00:00,  1.90it/s]
+INFO:root:Starting epoch 177
+loss=4.78221: 100%|██████████| 12/12 [00:05<00:00,  2.29it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.23it/s]
+Test Epoch 177: Acc@1:46.50%: 100%|██████████| 2/2 [00:00<00:00,  2.82it/s]
+INFO:root:Starting epoch 178
+loss=4.74480: 100%|██████████| 12/12 [00:05<00:00,  2.28it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 178: Acc@1:46.50%: 100%|██████████| 2/2 [00:00<00:00,  3.01it/s]
+INFO:root:Starting epoch 179
+loss=4.76082: 100%|██████████| 12/12 [00:08<00:00,  1.49it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.15it/s]
+Test Epoch 179: Acc@1:45.75%: 100%|██████████| 2/2 [00:00<00:00,  2.92it/s]
+INFO:root:Starting epoch 180
+loss=4.79885: 100%|██████████| 12/12 [00:04<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.18it/s]
+Test Epoch 180: Acc@1:45.75%: 100%|██████████| 2/2 [00:00<00:00,  2.91it/s]
+INFO:root:Starting epoch 181
+loss=4.82649: 100%|██████████| 12/12 [00:04<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+Test Epoch 181: Acc@1:47.00%: 100%|██████████| 2/2 [00:00<00:00,  2.98it/s]
+INFO:root:Starting epoch 182
+loss=4.75619: 100%|██████████| 12/12 [00:05<00:00,  2.36it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 182: Acc@1:45.50%: 100%|██████████| 2/2 [00:00<00:00,  2.86it/s]
+INFO:root:Starting epoch 183
+loss=4.77869: 100%|██████████| 12/12 [00:07<00:00,  1.54it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.21it/s]
+Test Epoch 183: Acc@1:47.00%: 100%|██████████| 2/2 [00:00<00:00,  3.06it/s]
+INFO:root:Starting epoch 184
+loss=4.50744: 100%|██████████| 12/12 [00:05<00:00,  2.31it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.21it/s]
+Test Epoch 184: Acc@1:47.25%: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+INFO:root:Starting epoch 185
+loss=4.62051: 100%|██████████| 12/12 [00:04<00:00,  2.41it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.14it/s]
+Test Epoch 185: Acc@1:47.00%: 100%|██████████| 2/2 [00:00<00:00,  2.99it/s]
+INFO:root:Starting epoch 186
+loss=4.88994: 100%|██████████| 12/12 [00:08<00:00,  1.49it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.04it/s]
+Test Epoch 186: Acc@1:45.75%: 100%|██████████| 2/2 [00:00<00:00,  2.96it/s]
+INFO:root:Starting epoch 187
+loss=4.79021: 100%|██████████| 12/12 [00:05<00:00,  2.35it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.11it/s]
+Test Epoch 187: Acc@1:46.00%: 100%|██████████| 2/2 [00:00<00:00,  2.99it/s]
+INFO:root:Starting epoch 188
+loss=4.59196: 100%|██████████| 12/12 [00:05<00:00,  2.30it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.11it/s]
+Test Epoch 188: Acc@1:46.75%: 100%|██████████| 2/2 [00:00<00:00,  2.97it/s]
+INFO:root:Starting epoch 189
+loss=4.89466: 100%|██████████| 12/12 [00:08<00:00,  1.49it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.11it/s]
+Test Epoch 189: Acc@1:47.00%: 100%|██████████| 2/2 [00:00<00:00,  3.00it/s]
+INFO:root:Starting epoch 190
+loss=4.63868: 100%|██████████| 12/12 [00:05<00:00,  2.37it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.07it/s]
+Test Epoch 190: Acc@1:47.25%: 100%|██████████| 2/2 [00:00<00:00,  2.99it/s]
+INFO:root:Starting epoch 191
+loss=4.67818: 100%|██████████| 12/12 [00:05<00:00,  2.40it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 191: Acc@1:47.25%: 100%|██████████| 2/2 [00:00<00:00,  3.06it/s]
+INFO:root:Starting epoch 192
+loss=4.75452: 100%|██████████| 12/12 [00:05<00:00,  2.28it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.91it/s]
+Test Epoch 192: Acc@1:47.75%: 100%|██████████| 2/2 [00:00<00:00,  2.75it/s]
+INFO:root:Starting epoch 193
+loss=4.60352: 100%|██████████| 12/12 [00:05<00:00,  2.01it/s]
+Feature extracting: 100%|██████████| 2/2 [00:01<00:00,  1.91it/s]
+Test Epoch 193: Acc@1:47.50%: 100%|██████████| 2/2 [00:00<00:00,  2.42it/s]
+INFO:root:Starting epoch 194
+loss=4.81636: 100%|██████████| 12/12 [00:08<00:00,  1.43it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.67it/s]
+Test Epoch 194: Acc@1:48.00%: 100%|██████████| 2/2 [00:00<00:00,  2.65it/s]
+INFO:root:Starting epoch 195
+loss=4.62650: 100%|██████████| 12/12 [00:06<00:00,  1.91it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  2.78it/s]
+Test Epoch 195: Acc@1:47.25%: 100%|██████████| 2/2 [00:00<00:00,  2.65it/s]
+INFO:root:Starting epoch 196
+loss=4.89370: 100%|██████████| 12/12 [00:05<00:00,  2.17it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.26it/s]
+Test Epoch 196: Acc@1:47.50%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
+INFO:root:Starting epoch 197
+loss=4.54084: 100%|██████████| 12/12 [00:04<00:00,  2.41it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.06it/s]
+Test Epoch 197: Acc@1:47.50%: 100%|██████████| 2/2 [00:00<00:00,  2.95it/s]
+INFO:root:Starting epoch 198
+loss=4.74457: 100%|██████████| 12/12 [00:05<00:00,  2.33it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.10it/s]
+Test Epoch 198: Acc@1:47.50%: 100%|██████████| 2/2 [00:00<00:00,  2.97it/s]
+INFO:root:Starting epoch 199
+loss=4.64482: 100%|██████████| 12/12 [00:05<00:00,  2.14it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 199: Acc@1:47.75%: 100%|██████████| 2/2 [00:00<00:00,  2.86it/s]
+INFO:root:Starting epoch 200
+loss=5.00471: 100%|██████████| 12/12 [00:05<00:00,  2.39it/s]
+Feature extracting: 100%|██████████| 2/2 [00:00<00:00,  3.16it/s]
+Test Epoch 200: Acc@1:47.50%: 100%|██████████| 2/2 [00:00<00:00,  3.02it/s]
