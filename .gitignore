@@ -1,3 +1,6 @@
 data/
 utils/
 saved_models/
+dataset/
+example_tensorboard/
+example_logs/
